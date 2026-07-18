@@ -1,4 +1,4 @@
-# 👋 Welcome to [Project Name]!
+# 👋 Welcome to YBIT LAB!
 
 Thank you for visiting our repository. This project is a [briefly describe the project, e.g., lightweight web application / automation tool / API service] designed to help users [mention the primary benefit or problem solved].
 
